@@ -1,0 +1,94 @@
+institutions:
+  - name: "IDSIA USI-SUPSI"
+    id: "idsia"
+    members:
+      - name: "Dr. Daniele Palossi"
+        role_label: "Principal Investigator"
+        role: "pi"
+        photo: "/assets/images/people/daniele_palossi.jpg"
+        website: ""
+
+      - name: "Dr. Elia Cereda"
+        role_label: "Lead (Postdoctoral Researcher)"
+        role: "lead"
+        photo: "/assets/images/people/elia_cereda.jpg"
+        website: ""
+
+      - name: "Ilenia Carboni"
+        role_label: "PhD Student"
+        role: "member"
+        photo: "/assets/images/people/ilenia_carboni.jpeg"
+        website: ""
+
+  - name: "ETH Zurich"
+    id: "ethz"
+    members:
+      - name: "Prof. Luca Benini"
+        role_label: "Principal Investigator"
+        role: "pi"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Dr. Lorenzo Lamberti"
+        role_label: "Lead (Postdoctoral Researcher)"
+        role: "lead"
+        photo: "/assets/images/people/lorenzo_lamberti.jpeg"
+        website: ""
+
+      - name: "Piao Deng"
+        role_label: "PhD Student"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Daoxin Zhong"
+        role_label: "PhD Student"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+
+  - name: "Alma Mater Studiorum - University of Bologna"
+    id: "unibo"
+    members:
+      - name: "Prof. Francesco Conti"
+        role_label: "Principal Investigator"
+        role: "pi"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Prof. Andrea Acquaviva"
+        role_label: "co-Principal Investigator"
+        role: "pi"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Dr. Francesco Barchi"
+        role_label: "Lead (Postdoctoral Researcher)"
+        role: "lead"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Dr. Grafika Jati"
+        role_label: "Postdoctoral Researcher"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Sebastiano Mengozzi"
+        role_label: "PhD Student"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+
+      - name: "Roberto Neri"
+        role_label: "Predoctoral Research Fellow"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""
+      
+      - name: "Lorenzo Squarzoni"
+        role_label: "Predoctoral Research Fellow"
+        role: "member"
+        photo: "/assets/images/people/placeholder.png"
+        website: ""

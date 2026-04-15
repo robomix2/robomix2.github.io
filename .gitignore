@@ -1,0 +1,12 @@
+# MacOS specifics
+.DS_Store
+
+# Local setup specifics
+.ruby-version
+Gemfile.lock
+
+# Local website artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
