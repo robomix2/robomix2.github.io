@@ -12,10 +12,10 @@ classes: wide
 {% assign mod = forloop.index | modulo: 2 %}
 <div class="pub-card {% if mod == 0 %}pub-card--reverse{% endif %}">
 
-  <div class="pub-media {% if pub.video != '' %}pub-media--video{% endif %}">
-    {% if pub.image != "" %}
+  <div class="pub-media {% if pub.video %}pub-media--video{% endif %}">
+    {% if pub.image %}
       <img src="{{ pub.image }}" alt="{{ pub.title }}">
-    {% elsif pub.video != "" %}
+    {% elsif pub.video %}
       <iframe src="{{ pub.video }}" frameborder="0" allowfullscreen></iframe>
     {% else %}
       <div class="pub-no-media"></div>
@@ -31,11 +31,26 @@ classes: wide
     <div class="pub-venue">{{ pub.venue }} · {{ pub.year }}</div>
 
     <div class="pub-links">
-      {% if pub.arxiv != "" %}
+      {% if pub.arxiv %}
         <a href="{{ pub.arxiv }}" target="_blank">arXiv</a>
       {% endif %}
-      {% if pub.proceedings != "" %}
+      {% if pub.proceedings %}
         <a href="{{ pub.proceedings }}" target="_blank">Proceedings</a>
+      {% endif %}
+      {% if pub.github %}
+        <a href="{{ pub.github }}" target="_blank">Code</a>
+      {% endif %}
+      {% if pub.pdf %}
+        <a href="{{ pub.pdf }}" target="_blank">PDF</a>
+      {% endif %}
+      {% if pub.website %}
+        <a href="{{ pub.website }}" target="_blank">Project Page</a>
+      {% endif %}
+      {% if pub.poster %}
+        <a href="{{ pub.poster }}" target="_blank">Poster</a>
+      {% endif %}
+      {% if pub.slides %}
+        <a href="{{ pub.slides }}" target="_blank">Slides</a>
       {% endif %}
     </div>
 
