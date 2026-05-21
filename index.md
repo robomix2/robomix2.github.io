@@ -8,12 +8,12 @@ classes: wide
 
 <div class="page-hero">
   <!--<img class="page-hero__project-logo" src="/assets/images/logos/robomix.png" alt="RoboMix²">-->
-  <div class="page-hero__funding">
+  <!-- <div class="page-hero__funding">
     <span class="page-hero__funded-by">Funded by</span>
     <a href="https://www.snf.ch" target="_blank">
       <img src="/assets/images/logos/snsf.png" alt="Swiss National Science Foundation">
     </a>
-  </div>
+  </div> -->
 </div>
 
 ## About RoboMix²
