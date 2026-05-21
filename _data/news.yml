@@ -1,7 +1,10 @@
 news:
   - date: 2026-01-31
     text: "'Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones', collaboration between IDSIA USI-SUPSI, University of Bologna and ETH Zurich, has been accepted to ICRA 2026"
+    logo: "/assets/images/publications/icra.png"
+    logo_width: "110px"
   - date: 2025-12-01
     text: "'Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs', collaboration between IDSIA USI-SUPSI, UNIBO, KU Leuven and ETHZ, has been accepted for publication in the IEEE Internet of Things Journal"
+    logo: "/assets/images/publications/ieee-logo-black.png"
   - date: 2026-04-10
     text: "'TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers', from ETH Zurich, has been accepted to the IEEE 2026 International Conference on Computer Vision and Pattern Recognition Workshops (CVPRW 2026)"
