@@ -12,7 +12,7 @@ classes: wide
 {% assign mod = forloop.index | modulo: 2 %}
 <div class="pub-card {% if mod == 0 %}pub-card--reverse{% endif %}">
 
-  <div class="pub-media">
+  <div class="pub-media {% if pub.video != '' %}pub-media--video{% endif %}">
     {% if pub.image != "" %}
       <img src="{{ pub.image }}" alt="{{ pub.title }}">
     {% elsif pub.video != "" %}
