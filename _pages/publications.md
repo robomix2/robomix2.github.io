@@ -23,7 +23,10 @@ classes: wide
   </div>
 
   <div class="pub-info">
-    <div class="pub-title">{{ pub.title }}</div>
+    <div class="pub-title">
+      {{ pub.title }}
+      {% for award in pub.awards %}<span class="pub-award">🏆 {{ award }}</span> {% endfor %}
+    </div>
     <div class="pub-authors">{{ pub.authors }}</div>
     {% if pub.equal_contributions != "" %}
     <div class="pub-equal">{{ pub.equal_contributions }}</div>

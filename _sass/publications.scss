@@ -68,6 +68,20 @@
   line-height: 1.4;
 }
 
+.pub-award {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.75rem;
+  font-weight: normal;
+  color: #b8860b;
+  background: #fff8e1;
+  border: 1px solid #f0c030;
+  border-radius: 3px;
+  padding: 0.1rem 0.45rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 .pub-authors {
   font-size: 0.9rem;
   color: #555;
