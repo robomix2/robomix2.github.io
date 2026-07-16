@@ -2,6 +2,7 @@
 layout: single
 title: "Project Partners"
 permalink: /people/
+description: "Meet the research institutions and team members collaborating on RoboMix²."
 ---
 
 {% for institution in site.data.people.institutions %}

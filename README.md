@@ -2,9 +2,7 @@
 
 A clean Jekyll site using [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
-Deployment through github pages not yet available (content still in progress)
-
-## To work locally (until Github Pages is setup)
+## Instructions to work locally (for example to test modifications to the website)
 
 ### 1. Ruby
 

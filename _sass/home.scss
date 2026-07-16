@@ -62,6 +62,24 @@
   text-align: justify;
 }
 
+.group-photo-section {
+  margin: 2rem 0;
+  text-align: center;
+
+  img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .group-photo-caption {
+    margin-top: 0.6rem;
+    font-size: 0.85rem;
+    color: #888;
+    font-style: italic;
+  }
+}
+
 .consortium {
   display: flex;
   flex-wrap: wrap;

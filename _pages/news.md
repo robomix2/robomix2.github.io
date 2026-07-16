@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: false
 classes: wide
+description: "Latest updates, milestones, and announcements from the RoboMix² SNSF project."
 ---
 
 <div class="news-list">

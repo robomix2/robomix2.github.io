@@ -1,8 +1,11 @@
 # --- Core ---
 title: "RoboMix² SNSF Project"
+masthead_title: "SNSF Project"
 description: "SNSF-funded research on neuromorphic hardware and hybrid SNN-ANN for ultra-low power visual odometry on miniaturized robots."
-url: ""
+url: "https://robomix2.github.io"
 baseurl: ""
+lang: "en"
+logo: "/assets/images/logos/robomix-logo.png"
 
 atom_feed:
   hide: true

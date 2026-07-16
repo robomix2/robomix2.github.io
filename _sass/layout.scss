@@ -4,6 +4,22 @@
   padding-left: 0 !important;
 }
 
+.site-logo {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo img {
+  max-height: 1.4rem;
+  width: auto;
+  margin-right: 0.5em;
+}
+
+.site-title {
+  color: #6b7280;
+  font-weight: 500;
+}
+
 .page__inner-wrap {
   max-width: 100%;
 }
