@@ -33,7 +33,7 @@ The project validates its approach on visual odometry across two complementary p
 ## [Project Partners](/people/)
 
 <div class="group-photo-section">
-  <img src="/assets/images/people/group-photo.jpg" alt="RoboMix² group photo">
+  <img src="/assets/images/people/group-photo.JPG" alt="RoboMix² group photo">
   <p class="group-photo-caption">First in-person consortium meeting — IDSIA, Lugano, June 26, 2026</p>
 </div>
 

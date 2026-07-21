@@ -15,6 +15,12 @@ institutions:
         photo: "/assets/images/people/elia_cereda.jpg"
         website: "https://scholar.google.ch/citations?user=GPJziQsAAAAJ"
 
+      - name: "Dr. Luca Bompani"
+        role_label: "Postdoctoral Researcher"
+        role: "member"
+        photo: "/assets/images/people/luca_bompani.jpeg"
+        website: "https://www.linkedin.com/in/luca-bompani-3035791b1/"
+
       - name: "Ilenia Carboni"
         role_label: "PhD Student"
         role: "member"
@@ -76,11 +82,11 @@ institutions:
             photo: "/assets/images/people/andrea_acquaviva.png"
             website: "https://www.unibo.it/sitoweb/andrea.acquaviva"
 
-          - name: "Dr. Francesco Barchi"
-            role_label: "Postdoctoral Researcher (Lead)"
-            role: "lead"
-            photo: "/assets/images/people/francesco_barchi.png"
-            website: "https://www.unibo.it/sitoweb/francesco.barchi/en"
+          # - name: "Dr. Francesco Barchi"
+          #   role_label: "Postdoctoral Researcher (Lead)"
+          #   role: "lead"
+          #   photo: "/assets/images/people/francesco_barchi.png"
+          #   website: "https://www.unibo.it/sitoweb/francesco.barchi/en"
 
           - name: "Dr. Grafika Jati"
             role_label: "Postdoctoral Researcher"
