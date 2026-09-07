@@ -13,7 +13,7 @@ news:
     text: "'TinyDEVO: Deep Event-based Visual Odometry on Ultra-low-power Multi-core Microcontrollers' received the Best Paper Award at the Embedded Vision Workshop (EVW), in conjunction with CVPR 2026!"
     logo: "/assets/images/publications/EVW-CVPR26_best_paper.png"
     logo_width: "180px"
-  - date: 2026-06-31
+  - date: 2026-06-30
     text: "'Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs', from IDSIA, SUPSI, has been accepted for publication to IEEE Sensors Journal"
     logo: "/assets/images/publications/ieee-logo-black.png"
   - date: 2026-09-01
