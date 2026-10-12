@@ -19,3 +19,6 @@ news:
   - date: 2026-09-01
     text: "'NOVA: Neuromorphic Optical Flow for Event-Based Visual Odometry', from University of Bologna, has been accepted to the 'Workshop on Neuromorphic Vision' (NeVi), held in conjunction with the European Conference on Computer Vision (ECCV 2026), in Malmö, Sweden"
     logo: "/assets/images/publications/eccv.jpeg"
+  - date: 2026-10-01
+    text: "'NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics', from IDSIA USI-SUPSI, published in IEEE Robotics and Automation Practice, was presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026 in Pittsburgh, USA"
+    logo: "/assets/images/publications/iros2026.png"

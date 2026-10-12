@@ -82,12 +82,6 @@ institutions:
             photo: "/assets/images/people/andrea_acquaviva.png"
             website: "https://www.unibo.it/sitoweb/andrea.acquaviva"
 
-          # - name: "Dr. Francesco Barchi"
-          #   role_label: "Postdoctoral Researcher (Lead)"
-          #   role: "lead"
-          #   photo: "/assets/images/people/francesco_barchi.png"
-          #   website: "https://www.unibo.it/sitoweb/francesco.barchi/en"
-
           - name: "Dr. Grafika Jati"
             role_label: "Postdoctoral Researcher"
             role: "member"
