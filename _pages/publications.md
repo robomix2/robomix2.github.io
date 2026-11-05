@@ -29,7 +29,7 @@ description: "Peer-reviewed papers and preprints from the RoboMix² project."
     <div class="pub-awards">{% for award in pub.awards %}<span class="pub-award">🏆 {{ award }}</span>{% endfor %}</div>
     {% endif %}
     <div class="pub-authors">{{ pub.authors }}</div>
-    {% if pub.equal_contributions != "" %}
+    {% if pub.equal_contributions %}
     <div class="pub-equal">{{ pub.equal_contributions }}</div>
     {% endif %}
     <div class="pub-venue">{{ pub.venue }} · {{ pub.year }}</div>

@@ -22,3 +22,6 @@ news:
   - date: 2026-10-01
     text: "'NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics', from IDSIA USI-SUPSI, published in IEEE Robotics and Automation Practice, was presented at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2026 in Pittsburgh, USA"
     logo: "/assets/images/publications/iros2026.png"
+  - date: 2026-10-24
+    text: "'Neuromorphic Optical Flow for Event-Based Visual Odometry', from University of Bologna, was presented at the European Conference on Edge AI Technologies and Applications (EEAI), in Malta"
+    logo: "/assets/images/publications/eeai26.png"

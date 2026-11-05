@@ -65,13 +65,19 @@ institutions:
             role_label: "Principal Investigator (Lead)"
             role: "pi"
             photo: "/assets/images/people/placeholder.png"
-            website: ""
+            website: "https://www.unibo.it/sitoweb/f.conti"
 
           - name: "Roberto Neri"
-            role_label: "Researcher"
+            role_label: "PhD Student"
             role: "member"
             photo: "/assets/images/people/roberto_neri.jpg"
             website: ""
+
+          - name: "Angelo Galavotti"
+            role_label: "Researcher"
+            role: "member"
+            photo: "/assets/images/people/angelo_galavotti.jpg"
+            website: "https://github.com/AngeloGalav"
         
 
       - name: "Efficient Computing Systems (ECS) Group"
@@ -95,7 +101,7 @@ institutions:
             website: "https://scholar.google.com/citations?user=v6Ykb5UAAAAJ&hl=en"
 
           - name: "Filippo Samorì"
-            role_label: "Researcher"
+            role_label: "PhD Student"
             role: "member"
             photo: "/assets/images/people/filippo_samori.jpg"
             website: "https://filipposamori.me/"
